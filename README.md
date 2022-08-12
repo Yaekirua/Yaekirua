@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Yaekirua
+- 👀 I’m interested in Anime
+- 🌱 I’m currently learning at SMKBSP
+- All of you can reach me on My social media (IG hizalhaziq)
