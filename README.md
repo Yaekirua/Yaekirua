@@ -1,6 +1,5 @@
-Sure! Here’s a modern README file format:
 
-```markdown
+
 # Hi, I'm Hizal Haziq! 👋
 
 ### Full Stack Developer | Real-Time Web Application Enthusiast | Tech Innovator
