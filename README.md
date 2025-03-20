@@ -17,8 +17,8 @@ Feel free to connect with me! 😊
 
 ### 📊 GitHub Stats  
 
-![Hizal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
+![Hizal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yaekirua&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yaekirua&layout=compact&theme=tokyonight)  
 
 ---
 
